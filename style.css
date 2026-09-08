@@ -1,1 +1,7 @@
-body    {background-color: darksalmon;}
+body    {background-color: whitesmoke;}
+header  {height: 100px; background-color: darkkhaki;}
+nav     {height: 25px; background-color: whitesmoke;}
+main    {height: 500px; background-color: lightgray;}
+article {height: 450px; background-color: wheat; width: 70%; float: left; border-radius: 8px; margin: 5px; padding: 5px;}
+aside   {height: 150px; background-color: blanchedalmond; width: 25%; float: right; border-radius: 8px; margin: 5px; padding: 5px;}
+footer  {height: 200px; background-color: salmon;}
