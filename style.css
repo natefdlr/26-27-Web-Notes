@@ -1,8 +1,18 @@
-body    {background-color: black;}
-header  {height: 100px; background-color: white; border-radius: 8px; margin: 5px; padding: 5px;}
-nav     {height: 300px; background-color: whitesmoke; float: left; border-radius: 8px; margin: 5px; padding: 5px;}
-main    {height: 500px; background-color: lightgray; border-radius: 8px; margin: 5px; padding: 5px;}
-article {height: 450px; background-color: whitesmoke; width: 70%; border-radius: 8px; margin: 5px; padding: 5px; float: left;}
-aside   {height: 150px; background-color: whitesmoke; width: 25%; border-radius: 8px; margin: 5px; padding: 5px;}
-footer  {height: 200px; background-color: white; border-radius: 8px; margin: 5px; padding: 5px;} 
-p       {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+body        {background-color: black;}
+header      {height: 100px; background-color: white; border-radius: 8px; margin: 5px; padding: 5px;}
+nav         {height: 300px; background-color: whitesmoke; float: left; border-radius: 8px; margin: 5px; padding: 5px;}
+main        {height: 500px; background-color: lightgray; border-radius: 8px; margin: 5px; padding: 5px;}
+article     {height: 450px; background-color: whitesmoke; width: 70%; border-radius: 8px; margin: 5px; padding: 5px; float: left;}
+aside       {height: 150px; background-color: whitesmoke; width: 25%; border-radius: 8px; margin: 5px; padding: 5px;}
+footer      {height: 200px; background-color: white; border-radius: 8px; margin: 5px; padding: 5px;} 
+p           {font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+h1          {color: darkcyan; font-size: 12pt;}
+.bodytext   {color: darkslategray; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;}
+#shadow     {box-shadow: 5px 5px 10px 2px rgba(14, 117, 83, 0.815);}
+
+a:link      {border-radius: 4px 4px 0px 0px; background-color: rgb(255, 217, 0); text-decoration: none; color: darkcyan; padding-left: 5px; padding-right: 5px;}
+a:visited      {border-radius: 4px 4px 0px 0px; background-color: rgb(255, 217, 0); text-decoration: none; color: darkcyan; padding-left: 5px; padding-right: 5px;}
+a:active      {border-radius: 4px 4px 0px 0px; background-color: rgb(255, 217, 0); text-decoration: none; color: darkcyan; padding-left: 5px; padding-right: 5px;}
+a:hover      {border-radius: 4px 4px 0px 0px; background-color: lightskyblue; text-decoration: none; color: darkgoldenrod; padding-left: 10px; padding-right: 10px;}
+
+img:hover   {}

@@ -1,0 +1,38 @@
+body    {
+    background-color: white;
+}
+header  {
+    height: 150px; 
+    width: 1000px; 
+    background-color: darkblue; 
+    border-bottom-color: white; 
+}
+nav     {
+    height: 50px;
+    width: 1000px;
+    background-color: lightblue;
+}
+main    {
+    height: 600px;
+    width: 1000px;
+    background-color: blue;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+article {
+    height: 175px;
+    width: 950px;
+    background-color: white;
+    border-radius: 5px;
+    padding: 5px;
+    margin-top: 5px;
+}
+footer  {
+    height: 300px;
+    width: 1000px;
+    background-color: black;
+}
+.mid    {
+    background-color: grey;
+}
